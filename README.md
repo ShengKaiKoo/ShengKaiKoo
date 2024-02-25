@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ShengKaiKoo
+- 👀 I’m freshly graduated chemical-bioprocess engineer who also interested in computer science.
+- 🌱 I’m currently learning C#, Python for data science. 
+- 📫 shengkaikoo@gmail.com
